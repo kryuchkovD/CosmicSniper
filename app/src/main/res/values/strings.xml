@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceShooter</string>
+    <string name="points">Points:</string>
+    <string name="points2">Points:</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="play">Play</string>
+    <string name="todo3">TODO</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
