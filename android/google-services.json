@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798383268151",
+    "project_id": "cosmicsniper-332d1",
+    "storage_bucket": "cosmicsniper-332d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798383268151:android:cb65d45d737edbb4ccfab2",
+        "android_client_info": {
+          "package_name": "com.samsung.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798383268151-jshh8i61i26e0lguls4k9f4r2i2il5ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2A3ZDGG-2QHb0qkTrfkxknrQUrWGRn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798383268151-jshh8i61i26e0lguls4k9f4r2i2il5ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
